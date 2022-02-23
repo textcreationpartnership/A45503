@@ -1,0 +1,722 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of Samuel Hanson, merchant and planter in Barbadoes humbly offer'd and submitted to the Kings most excellent Majesty's consideration and royal determination in council.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45503</idno>
+            <idno type="STC">Wing H664</idno>
+            <idno type="STC">ESTC R29468</idno>
+            <idno type="EEBO-CITATION">11147140</idno>
+            <idno type="OCLC">ocm 11147140</idno>
+            <idno type="VID">46416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45503)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46416)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1424:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of Samuel Hanson, merchant and planter in Barbadoes humbly offer'd and submitted to the Kings most excellent Majesty's consideration and royal determination in council.</title>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1684?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hanson, Samuel, 17th cent.</term>
+               <term>Actions and defenses.</term>
+               <term>Great Britain --  Colonies --  Administration.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="court_case">
+            <pb n="1" facs="tcp:46416:1"/>
+            <head>THE CASE OF Samuel Hanſon, Merchant and Planter in <hi>BARBADOES, Humbly offer'd and ſubmitted to the Kings Moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty's Conſideration, and Royal Determi<g ref="char:EOLhyphen"/>nation in Council.</hi>
+            </head>
+            <p>THE ſaid <hi>Hanſon</hi> for 24 Years laſt paſt, hath been an Inhabi<g ref="char:EOLhyphen"/>tant in <hi>Barbadoes,</hi> lived there under 14 ſeveral Governours, and Lieutenant-Governours, without having had the leaſt Controverſie or Conteſt with any one of them; he always behaved himſelf as a Loyal Subject to his King, and Dutiful Son of the Church, paying all the ſubmiſſion and reſpect imaginable to the Government he lived under: Neither had he in all that time any conſide<g ref="char:EOLhyphen"/>rable Quarrel, Controverſie or Conteſt with any of the Inhabitants of the ſame Iſland, except with one Gentleman; who having done him ſome In<g ref="char:EOLhyphen"/>jury, of which he held himſelf obliged to acquaint the Aſſembly; They eſpouſing his Intereſt, and doing him Right, he conceived thereupon ſuch Anger, as put him upon contriving how to be even with him: To which purpoſe falling in with Sir <hi>Richard Dutton,</hi> Knt. at his firſt Arrival upon the ſaid Iſland, he poſſeſt him with prejudice againſt him, and prevail<g ref="char:EOLhyphen"/>ed to have him ſo uſed, as that he was forc'd in the Year 1682. to exhibit Three Appeals to His late Majeſty of ever Glorious Memory, in Council, to be relieved againſt the Severity of Sir <hi>Richard</hi>'s Proceedings, and for Reverſal of the Judgments by him pronounced againſt him.</p>
+            <p>THE Firſt, For Reverſing a Judgment pronounc'd (contrary to Law and conſtant Uſage) by Sir <hi>Richard</hi> in the Court of Grand Seſſions, without the Concurrence or Conſent of the Court, whereby he was Fin'd 150 <hi>
+                  <abbr>l.</abbr> Sterl.</hi>
+            </p>
+            <p>THE Second was, a Complaint of his being illegally committed to Pri<g ref="char:EOLhyphen"/>ſon, and detain'd there 5 Weeks without Cauſe, praying Damages for the ſame.</p>
+            <p>THE Third, For an undue Seizure, Condemnation, and Sale of a Ship of his for 250 <abbr>
+                  <hi>l.</hi>
+               </abbr> which coſt him 1100 <abbr>
+                  <hi>l.</hi>
+               </abbr> the Year before.</p>
+            <div n="1" type="appeal">
+               <pb n="2" facs="tcp:46416:2"/>
+               <head>
+                  <hi>The Caſe upon the</hi> 1ſt <hi>Appeal, was as followeth,</hi>
+               </head>
+               <p>ONE <hi>Anthony Rodrigus</hi> having 12 Iron Guns,
+<note place="margin">1679</note> worth about 4 <abbr>
+                     <hi>l.</hi>
+                  </abbr> a piece, lying on <hi>Gun-Wharf</hi> in <hi>Bridg Town,</hi> (which Wharf belonged to Mr. <hi>Scut,</hi> and <hi>Kendal,</hi> Merchants, and managed by one <hi>John Burſton</hi> their Agent) He the ſaid <hi>John Burston,</hi>
+               </p>
+               <p>SOLD the ſaid Guns in the Preſence of many Witneſſes to <hi>Hanſon,</hi>
+                  <note place="margin">
+                     <hi>Mar.</hi> 25. 79.</note> who the ſame day, in the Preſence of ſeveral Perſons, cauſed 6 of them to be publickly in the day time, ſhip'd on Board the Ship <hi>Nathaniel,</hi> bound for <hi>New-England,</hi> in order to their being tranſported thither.</p>
+               <p>
+                  <hi>RODRIG<g ref="char:V">Ʋ</g>S</hi> miſſing theſe Guns,
+<note place="margin">
+                     <hi>Mar.</hi> 26. 79.</note> complain'd that they were ſtollen, and obtained a Warrant to ſearch for them; and if found, to bring back the ſame; <hi>Hanſon</hi> hearing of this, immediately cauſed them to be fetch'd on ſhore, and brought to the place from whence they were removed, and defrayed the Charge thereof; with which the ſaid <hi>Rodrigus</hi> being well ſatisfied, did often deſire Sir <hi>Jonathan Atkins</hi> (the then Governour) that no Perſon might receive Trouble, or be proſecuted for removing the ſame; notwith<g ref="char:EOLhyphen"/>ſtanding whereof, Sir <hi>Jonathin Atkins</hi> being called home, and Sir <hi>Richard Dutton</hi> made Governour,</p>
+               <p>WHICH was two Years and a half after the fact committed,
+<note place="margin">
+                     <hi>Aug.</hi> 16. 81.</note> an Indictment was preferred by the Attorney General, at the then General Seſſions, againſt <hi>Hanſon</hi> and <hi>Burſton:</hi> The purport whereof was, for that they fraudulently and deceitfully deſigning Gain to themſelves, had entred upon <hi>Gun Wharf,</hi> and carried away 14 great Guns of the Kings, 14 of of the Iſlands, and 14 belonging to Perſons unknown, worth in all 150 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </p>
+               <p>ALL Evidence for the King being heard, and very material for <hi>Hanſon</hi> and <hi>Burſtod</hi> refuſed (on pretence they could not be Examined againſt his Ma<g ref="char:EOLhyphen"/>jeſty) the Jury notwithſtanding the Information, found <hi>Hanſon</hi> and <hi>Burſton</hi> Guilty only of making a fraudulent Bargain in the buying and ſelling 12 Guns belonging to <hi>Rodrigus</hi> a Jew, and ſhipping them off as aforeſaid.</p>
+               <p>
+                  <hi>HANSON</hi> immediately moved in Arreſt of Judgment, and offered ſufficient Reaſons in Law for granting the ſame: Which were as followeth,</p>
+               <p>FIRST, That he was not found Guilty of the Fraud charged by the Indict<g ref="char:EOLhyphen"/>ment, to have been by him committed againſt the King or the Iſland, and no Perſon appeared to proſecute him for the pretended fraud committed againſt <hi>Rodrigus.</hi>
+               </p>
+               <p>SECONDLY, That the Indictments was for 42. great Guns, and the Ver<g ref="char:EOLhyphen"/>dict finds only a fraudulent buying and ſelling of 12 Guns, and mentions not whether great or ſmall; therefore no certain Judgment could be given on that Verdict.</p>
+               <p>NOTWITHSTANDING whereof Sir <hi>Richard</hi> being newly come to the Iſland, (conſequently unacquainted with the Laws thereof) proceeded himſelf (againſt the Law and conſtant Uſage of the Iſland) without the Concur<g ref="char:EOLhyphen"/>rence or Conſent of His Majeſties Council, Judges, and Juſtices then preſent) to fine <hi>Hanſon</hi> 150 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and <hi>Burſton</hi> 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> in all 250, for ſhipping of 6 of the 12 Guns aforeſaid, valued by the Owner but at 4 <abbr>
+                     <hi>l.</hi>
+                  </abbr> a piece, when as the Indictment valued the 42 Guns therein mentioned, but at 150 <abbr>
+                     <hi>l.</hi>
+                  </abbr> in all.</p>
+               <p>THE General Aſſembly humbly addreſt to Sir <hi>Richard,</hi>
+                  <note place="margin">
+                     <hi>Oct.</hi> 5. 81.</note> ſtating there<g ref="char:EOLhyphen"/>in the Law of the Iſland to be, That no Fine could be impoſed on any Cri<g ref="char:EOLhyphen"/>minal, by any Governour, without the Concurrence of the Council, Judges and Juſtices preſent at his Tryal, pray'd therefore a ſtay of Execution againſt <hi>Hanſon</hi> and <hi>Burſton,</hi> and a Preſervation of their Laws. Notwithſtanding which,</p>
+               <p>A WRIT was awarded out of the Exchequer to ſummon <hi>Hanſon</hi> to appear the 18th of that Month,
+<note place="margin">
+                     <hi>Oct.</hi> 12. 81.</note> and ſhew cauſe why Execution ſhould not iſſue againſt him: With which,</p>
+               <p>
+                  <hi>HANSON</hi> being ſerved,
+<note place="margin">
+                     <hi>Oct.</hi> 14. 81.</note>
+               </p>
+               <pb n="3" facs="tcp:46416:2"/>
+               <p> HE appeared, and pray'd time to plead in Abatement of the <hi>Scire Facias,</hi>
+                  <note place="margin">
+                     <hi>Octo.</hi> 18. 81.</note> and had Ten days granted him for that purpoſe.</p>
+               <p>HE put in a ſufficient Plea in Law, for Abatement thereof;
+<note place="margin">
+                     <hi>Nov.</hi> 8. 81.</note> to which the Court gave no Anſwerduring its ſitting; Nevertheleſs the ſame was over<g ref="char:EOLhyphen"/>ruled, Judgment Entred, Execution iſſued, and put into the <hi>Provoſt Mar<g ref="char:EOLhyphen"/>ſhal</hi>'s Hand, for Levying the ſaid 150 <abbr>
+                     <hi>l.</hi>
+                  </abbr> who immediately came to <hi>Hanſon</hi>'s Houſe, Attacht Ten Negroes, but left them behind till he could ſpeak with him, and ſee if he would pay the Money; for which purpoſe he came a<g ref="char:EOLhyphen"/>gain about Four days after, and demanded the ſaid Negroes, but knew not their Names, nor where to find them; Nevertheleſs, he might then have Attacht his Perſon, or Extended his Houſe, Land or Goods; all which he refuſed to do, at that, and at all other times, when he came to Levy the ſaid Fine.</p>
+               <p>
+                  <hi>HANSON</hi> thereupon deſired the <hi>Provoſt Marſhal</hi> to forbear, till he could Petition the Council for a <hi>Writ of Error;</hi> promiſing, if he would ſo do, to give him no further Trouble; to which he conſenting,</p>
+               <p>
+                  <hi>HANSON</hi> Petitioned Sir <hi>Richard</hi> and the Council, for a <hi>Writ of Error,</hi>
+                  <note place="margin">
+                     <hi>Dec.</hi> 13. 81.</note> Aſſigning ſeveral Fatal ones; but Sir <hi>Richard</hi> would not ſuffer it to be read, declaring, the Council had nothing to do therewith.</p>
+               <p>HE Petitioned Sir <hi>Richard</hi> alone for the ſame, praying ſtay of Execution,
+<note place="margin">
+                     <hi>Dec.</hi> 16. 81.</note> offering to give good Security to abide His Majeſties Determination in Council.</p>
+               <p>TO which he received no other Anſwer, than that he had his Appeal to His Majeſty, if he found himſelf aggrieved, and was there properly relieve<g ref="char:EOLhyphen"/>able.</p>
+               <p>THIS done, and <hi>Hanſon</hi> ſeeing no hopes of Relief, he, according to his promiſe, ſet out Eleven Negroes, and ſent for the <hi>Provoſt Marſhal</hi> to come and Levy the Fine, who accordingly came and Attacht, Appraiſed, and Sold them for 171 <abbr>
+                     <hi>l.</hi>
+                  </abbr> of which the Fine and Charges (as he alledged) came to 162 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 8 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 8 <abbr>
+                     <hi>d.</hi>
+                  </abbr> The Remainder he paid back in <hi>London,</hi> in 1683. and not before, but detained 12 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 8 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 8. for Charges, beſides the 150 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Fine; which is contrary to Law.</p>
+               <p>AFTER this, <hi>Hanſon</hi> made ſeveral Applications to Sir <hi>Richard,</hi> praying Favour to be heard, in order to the Vindication of his Reputation, not in the leaſt regarding the Fine, but only to preſerve his Credit, which being re<g ref="char:EOLhyphen"/>fuſed:</p>
+               <p>HE Appealed to His late Majeſty, of Ever Glorious Memory, in Council,
+<note place="margin">
+                     <hi>April</hi> 12. 82.</note> ſetting forth all the Matters aforeſaid, praying for Relief, and that the Judg<g ref="char:EOLhyphen"/>ment aforeſaid might be Revers'd.</p>
+               <p>WHICH Petition was referr'd to the Right Honourable the Lords Com<g ref="char:EOLhyphen"/>mittee for Trade, and Foreign Plantations, to Examine the ſame, and make their Report; whoſe Lordſhips</p>
+               <p>ORDERED a Copy to be ſent Sir <hi>Richard,</hi>
+                  <note place="margin">
+                     <hi>May</hi> 22. 82.</note> requiring him to anſwer the ſame without delay, and to ſend over True Copies of all Proceedings in that Cauſe, which accordingly he did do.</p>
+            </div>
+            <div n="2" type="case">
+               <head>The Caſe upon the Second Appeal, was:</head>
+               <p>
+                  <hi>HANSON</hi> deſigning for <hi>England,</hi> to proſecute the aforemention'd Appeal, had before the arrival of the Order of Council made for Sir <hi>Richard</hi>'s an<g ref="char:EOLhyphen"/>ſwering thereunto, put up his Name, according to the Cuſtom of that Iſland, and was not under-writ by any perſon whatſoever, tho the ſame was kept up about Six Weeks, inſtead of the One and Twenty days required by the Law; Therefore ought to have had a Ticket, to have gone off the Iſland.</p>
+               <pb n="4" facs="tcp:46416:3"/>
+               <p> BY the ſame Ship that carried over that Order of Council, Mr. <hi>Creſſet,</hi> of the <hi>Inner-Temple,</hi> ſent a Letter to Sir <hi>Richard,</hi> wherein he writ him word, That the Opinion of Council in the Law, as alſo of ſome of the Lords of His Majeſties moſt Honourable Privy Council, was, That the Judgment by him given in the Court of Grand Seſſions, as aforeſaid, was Erroneous, and ought to be Revers'd: Therefore adviſed him to compoſe the matter there, without further Trouble to His Majeſty Himſelf, or <hi>Hanſon.</hi>
+               </p>
+               <p>THIS Letter he ſent open to Mr. <hi>South, Hanſon</hi>'s Agent in <hi>London,</hi> deſiring him firſt to read, then to ſeal, and ſend it away, but not to encloſe it to <hi>Hanſon.</hi>
+               </p>
+               <p>
+                  <hi>SO<g ref="char:V">Ʋ</g>TH</hi> took a Copy thereof (which he ſent to <hi>Hanſon</hi>) and the Ori<g ref="char:EOLhyphen"/>ginal to Sir <hi>Richard.</hi>
+               </p>
+               <p>THE Poſt-Maſter of that Iſland took Sir <hi>Richard</hi>'s Letter, with his own hands, out of the Maſter of the Ship's Bag, and delivered it to his Butler.</p>
+               <p>
+                  <hi>HANSON</hi> having the Copy, ſhew'd it to his Council; they diſcourſing its Contents to others, the ſame came to Sir <hi>Richard</hi>'s Ears, who being inraged againſt <hi>Hanſon</hi> for Appealing, and reſolving to ſtay him on the Iſland, and hinder his coming over to proſecute his Appeal,</p>
+               <p>HE ſent the Provoſt Marſhal to Summon him immediately to appear before him,
+<note place="margin">
+                     <hi>Oct.</hi> 24. 82.</note> which he did; but was no ſooner admitted into his preſence, then ſaluted by the name of Rogue, Raſcal, Villain, Trayterous Villain, threatned to be Whipt about the Streets, ſet in the Pillory, and his Ears to be cut off and ſent in a Box to His Majeſty, for daring to Appeal to Him in Council with<g ref="char:EOLhyphen"/>out his leave; after which, he ask'd him if he had not received a Letter from one <hi>Creſſet,</hi> under his Cover, directed to him? Whereto he replied, he had not; nor knew any thing thereof, otherways than that Mr. <hi>Creſſet,</hi> being his Sollicitor, had Writ him word, that he had ſent ſuch a Letter. Upon which he called for a <hi>Bible,</hi> and required him to take an Oath, which he refuſing to do, till firſt he ſhould know to what he was to be Sworn, alledging, That by the Law of <hi>England</hi> no Man was obliged to Swear againſt himſelf; Sir <hi>Richard</hi> thereupon tendered the Oath a ſecond time, telling him, he ſhould Swear to anſwer all ſuch Queſtions as ſhould be askt of him; which he refuſing, was committed to Priſon till further Order, without expreſſing in the Warrant any Cauſe of Commitment.</p>
+               <p>SOME days after Sir <hi>Richard</hi> ſent the Provoſt Marſhal the Warrant fol<g ref="char:EOLhyphen"/>lowing, which nevertheleſs bore the ſame Date with the former.</p>
+               <floatingText xml:lang="eng" type="warrant">
+                  <body>
+                     <head>BARBADOES,</head>
+                     <p>
+                        <hi>WHereas by a former Warrant bearing date the 24th inſtant,
+<note place="margin">Had he entred into ſuch a Recognizance, and come into <hi>England,</hi> a Seſſions might have been called, and by his abſence his Recogni<g ref="char:EOLhyphen"/>zance been forfeited, and his Sureties been Ruined.</note> one</hi> Samuel Hanſon <hi>of the ſaid Iſland, Planter, was Committed to your Cuſtody, there to remain till further Order; who you are hereby further required, ſtill to keep in ſafe and ſtrict Cuſtody, not only for high Miſdemeanours, of detaining, opening, and divulging my Letter, but likewiſe for expoſing the Honour and Juſtice of ſome of the Lords of His Majeſties Privy Council to the cenſure of the People; until he hath firſt entred into Recognizance with two ſufficient Sure<g ref="char:EOLhyphen"/>ties, to be bound in the Sum of</hi> 10000 <hi>
+                           <abbr>l.</abbr> Sterl. and to be taken before the Ho<g ref="char:EOLhyphen"/>nourable</hi> Edwin Steed <hi>and</hi> Stephen Gaſcoyne <hi>Eſquires, for his Appearance at the next General Seſſions of the Peace to be held for this Iſland, there to An<g ref="char:EOLhyphen"/>ſwer the Miſdemeanours aforeſaid: And in the mean time, the ſaid</hi> Hanſon <hi>to be of the Good Behaviour towards all his Majeſties Leige People: Given,</hi> &amp;c. <hi>Oct.</hi> 25. 1682.</p>
+                     <closer>
+                        <signed>Signed <hi>Richard Dutton.</hi>
+                        </signed>
+                     </closer>
+                     <trailer>To <hi>Geo. Hanna</hi> Eſq;</trailer>
+                  </body>
+               </floatingText>
+               <p>SIR <hi>Richard,</hi>
+                  <note place="margin">
+                     <hi>Oct.</hi> 31. 82.</note> in Council, ſent for <hi>Hanſon,</hi> where being brought in Cuſto<g ref="char:EOLhyphen"/>dy, it was ask'd of him, whether he ſtill reſolved not to be Sworn? To
+<pb n="5" facs="tcp:46416:3"/>which he replied he did, unleſs he might, before his taking his Oath, know to what he ſhould be Examined; whereupon Sir <hi>Richard</hi> told him he ſhould Swear whether he had not received a Letter from Mr. <hi>Creſſet,</hi> under his Cover, directed for him; to which, he poſitively anſwered that he did not. Whereupon he called him Lying Rogue, and declared to the Council, he would prove him ſuch to his face; and for that purpoſe examined ſeveral Witneſſes, all of whom denyed their knowing any thing of the matter; and the Deputy-Poſt-Maſter, upon his Oath, poſitively ſwore, that he took <hi>Creſſet</hi>'s Letter out of the Maſter of the Ship's Bag, and delivered it him<g ref="char:EOLhyphen"/>ſelf to Sir <hi>Richard</hi>'s Butler. Then <hi>Hanſon</hi> informed the Council, that his Agent, <hi>South,</hi> had ſent him a Copy of it, which he produced: and many of the Council knew it to be of <hi>South</hi>'s Hand-writing: And that being compared, did agree with the Original, and was detained from him by Sir <hi>Richard,</hi> who then procured ſome of the Council to joyn with him in ma<g ref="char:EOLhyphen"/>king an Order for remanding him back in Cuſtody, tho he offer'd to ſwear, That he had never ſeen the Original Letter from <hi>Creſſet;</hi> and deſired, That Reaſonable Bail might be taken, offering 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> But nothing leſs would ſerve, than Bail of 10000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> which he not being able to procure, by reaſon of Sir <hi>Richard</hi>'s high diſpleaſure, was hurried back to Gaol, where he remained in all, about Five Weeks, to his great damage; in which time (his Health being much impaired,) and he threatned by one <hi>Gleab,</hi> Sir <hi>Ri<g ref="char:EOLhyphen"/>chard</hi>'s Secretary and Kinſman, That he would cut off his Ears with his own hands, and rip up his Bowels, if Sir <hi>Richard</hi> would command him, add<g ref="char:EOLhyphen"/>ing, That he believed it no more ſin ſo to do, than to kill a Dog, or words to that effect.</p>
+               <p>THE ſaid <hi>Hanſon,</hi> meerly to avoid the aforeſaid ignominious Puniſhments,
+<note place="margin">
+                     <hi>Nov.</hi> 28. 82.</note> threatned to be inflicted upon him, got out of Priſon in the Night, and went on Board an Old Ship, then bound for <hi>England,</hi> in which he came in the dead of Winter, without any Proviſion, was forc't to leave his Wife and Children, with about Three Hundred Servants, and a Plantation worth about 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> behind him; as alſo a <hi>Cargo</hi> of Goods, which he then had ready of his own, to have ſhipt on Board the Ship called, <hi>The Berk<g ref="char:EOLhyphen"/>ſhire</hi> (of which he himſelf was Owner), and in which he intended to have gone off from the Iſland, had he not been prevented by an illegal Seizure, Condemnation, and Sale made thereof; which leads to the Ground of the Third Appeal (to wit);</p>
+            </div>
+            <div n="3" type="appeal">
+               <head>The Caſe upon the Third Appeal.</head>
+               <p>THE ſaid Ship was bought by the Appellant's Agent,
+<note place="margin">
+                     <hi>July</hi> 12. 81.</note> for his uſe in <hi>Lon<g ref="char:EOLhyphen"/>don;</hi> and with her Tackle, Furniture and Rigging, coſt about 1100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> to fit out to Sea.</p>
+               <p>SHE ſet Sail from <hi>London</hi> on a Trading Voyage.
+<note place="margin">
+                     <hi>Sept.</hi> 17. 81. <hi>Sept.</hi> 19. 82. <hi>Sept.</hi> 20. 82.</note>
+               </p>
+               <p>SHE arrived at <hi>Barbadoes</hi> about Four in the afternoon.</p>
+               <p>
+                  <hi>THOMAS Hyat,</hi> her Maſter, attended Sir <hi>Richard Dutton,</hi> to acquaint him with her Arrival, and whence ſhe came, and with what ſhe was la<g ref="char:EOLhyphen"/>den, all within Four and Twenty hours after ſhe Arrived, according to the Cuſtom of the Iſland.</p>
+               <p>SHE had on Board 128 <abbr>
+                     <hi>l.</hi>
+                  </abbr> of Elephant's Teeth, worth about 6 <abbr>
+                     <hi>l.</hi>
+                  </abbr> belong<g ref="char:EOLhyphen"/>ing to a Mariner, which (unknown to the Maſter) were Landed before the Governor his being attended; for which the Maſter was committed, till he paid a Fine of 10000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> of Sugar.</p>
+               <p>THE fame day the Appellant made one <hi>Thomas Hanſon</hi> Maſter of the ſaid Ship.</p>
+               <pb n="6" facs="tcp:46416:4"/>
+               <p> THE ſaid <hi>Thomas</hi> made due Entry in the Powder Secretaries and Naval Offices of the ſaid Iſland,
+<note place="margin">
+                     <hi>Sep.</hi> 21. 82.</note> entring his Ship from <hi>Ferdiuando Po,</hi> gave Ac<g ref="char:EOLhyphen"/>count of her Lading, and entred into ſuch Bonds as were required by Law, paid all Duties due for the Service of the Iſland.</p>
+               <p>ALL this was done in time, before Sir <hi>Richard</hi> had heard that <hi>Hanſon</hi> had appealed to Council, from the Judgment of 150 <abbr>
+                     <hi>l.</hi>
+                  </abbr> about the Guns, and before Sir <hi>Richard</hi>'s committing <hi>Hanſon</hi> to Priſon; ſo that no Proſecution was had againſt the ſaid Ship, but committing the Maſter till he paid his Fine of 10000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> of Sugar, which was a Judgment agreeable to Law.</p>
+               <p>TILL Sir <hi>Richard</hi> heard of <hi>Hanſon</hi>'s firſt Appeal, and of his Intention to go into <hi>England</hi> to proſecute the ſame, and his deſigning to go over in his own Ship, and tranſport a Cargo of his own Goods with him, which when he heard of (having committed him, as in the former Appeal is expreſt), he did (to make his abode on the Iſland more ſecure), cauſe the ſaid Ship</p>
+               <p>TO be Arreſted,
+<note place="margin">
+                     <hi>Nov.</hi> 1. 82.</note> which was in time Six Weeks after her Arrival, and af<g ref="char:EOLhyphen"/>ter ſhe had been carren'd, her Maſts and Rigging taken on Shore and mend<g ref="char:EOLhyphen"/>ed, and then carried on Board and ſet up again.</p>
+               <p>
+                  <hi>H<g ref="char:V">Ʋ</g>GH Archer,
+<note place="margin">
+                        <hi>Nov.</hi> 2. 82.</note> Edwin Steed</hi> Eſquire's Man, libell'd her in the Admiralty Court, and grounded his Libel on a Clauſe contained in a Statute of 150. <hi>Caroli</hi> IId, Entituled an Act for Encouragement of Trade, which obliges all Maſters bringing Ships to any the Kings Plantations, to attend the Gover<g ref="char:EOLhyphen"/>nour, give Inventories of his Lading, and Certificates where taken in, and prove the Ship Engliſh, and Navigated by Two Parts Engliſh, before Bulk broken.</p>
+               <p>THE Libel expreſſes the Ships Arrival with ſeveral Goods and Merchan<g ref="char:EOLhyphen"/>dizes, and that all was landed before Sir <hi>Richard</hi> was attended, which for<g ref="char:EOLhyphen"/>feited Ship, Guns, Tackle, <hi>&amp;c.</hi> Pray'd Proceſs to force <hi>Hanſon</hi> and <hi>Hyat</hi> the Maſter to appear immediate, and anſwer the ſame.</p>
+               <p>PROCESS as deſired was iſſued and ſerved upon them both in Priſon;
+<note place="margin">
+                     <hi>Nov.</hi> 2. 82.</note> they appeared by their Proctor, took Copy of the Libel, and thereto put in a Demurrer, demurring to the Juriſdiction of that Court, offering therein good Reaſons in Law, to prove that Court had no manner of Cognizance of that Cauſe; therefore pray'd to be diſmiſt, as by the Record appears.</p>
+               <p>THEY were cited to attend that Court on the 7th of that Month,
+<note place="margin">
+                     <hi>Nov.</hi> 5. 82.</note> and argue their Demurrer; but being Priſoners, were not ſuffered ſo to do; nor could they prevail with any one Proctor or Council to appear on their behalfs, leſt thereby they ſhould incur the anger of Sir <hi>Richard.</hi>
+               </p>
+               <p>THE cauſe was called,
+<note place="margin">
+                     <hi>Nov.</hi> 7. 82.</note> the Proofs, Libel, and Demurrer read, but none ap<g ref="char:EOLhyphen"/>pearing for <hi>Hanſon,</hi> (the <hi>Provost Marſhal</hi> informing the Court, that he to<g ref="char:EOLhyphen"/>gether with the Maſter were in Cuſtody); thereupon the Cauſe was put off till the next day.</p>
+               <p>SIR <hi>Richard</hi> in the Admiralty Court (whereof he made himſelf ſole Judg) Condemned the ſaid Ship with her Rigging,
+<note place="margin">
+                     <hi>Nov.</hi> 8. 82.</note> Tackle, Furniture and Goods.</p>
+               <p>SHE was afterwards ſet up for Fourteen Days to be freighted for <hi>England</hi> with the Kings Colours on board the Top Maſts Head, but no Perſon on the Iſland would fraight any Goods on board her.</p>
+               <p>THE Kings Colours were thereupon taken down, and the Ship, <hi>&amp;c.</hi> ap<g ref="char:EOLhyphen"/>praized by ſworn Appraizers, who valued her at about 280 <abbr>
+                     <hi>l.</hi>
+                  </abbr> after which ſhe was expoſed to ſale by Inch of Candle, ſet up at 250 <abbr>
+                     <hi>l.</hi>
+                  </abbr> no one would advance upon her, except Capt. <hi>John Steward,</hi> a Perſon employed (as is be<g ref="char:EOLhyphen"/>lieved) for that purpoſe, who bid 251 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and had her declared ſold to him for that money, a Third Part whereof belonged to Sir <hi>Richard,</hi> as Gover<g ref="char:EOLhyphen"/>nour.</p>
+               <pb n="7" facs="tcp:46416:4"/>
+               <p> THIS Ship was thus illegally condemned, and <hi>Hanſon</hi> denied the Benefit of the Law (being his Birth-right); <hi>viz.</hi> a Tryal by a Jury; which by the Statute on which the ſaid Libel was grounded, is expreſly provided for and directed in all Caſes of like Nature, and never denied but in this Caſe.</p>
+               <p>FROM this illegal Seizure, Condemnation and Sale, the ſaid <hi>Hanſon</hi> alſo appealed, praying, as in both the former, to be relieved according to E<g ref="char:EOLhyphen"/>quity and Juſtice.</p>
+               <p>THE firſt Appeal was preferr'd, and upon the Reading thereof,
+<note place="margin">
+                     <hi>April</hi> 22. 82.</note> was referr'd to the Right Honourable, the Lords Committee for Trade and Plantations; whoſe Lordſhips</p>
+               <p>ORDERED Sir <hi>Richard</hi> a Copy thereof,
+<note place="margin">
+                     <hi>May</hi> 22. 82.</note> and to put in his Anſwer there<g ref="char:EOLhyphen"/>to without delay, and Tranſmit over Copies of all Proceedings had in the Cauſe.</p>
+               <p>SIR <hi>Richard</hi> in <hi>September</hi> following, was ſerved with the ſaid Order, the which he obeyed.</p>
+               <p>
+                  <hi>HANSON</hi> eſcaped from Priſon, and got on Board Captain <hi>Young</hi>'s Ship,
+<note place="margin">
+                     <hi>Nov.</hi> 28. 82.</note> bound for <hi>England,</hi> who had the 11th of <hi>September,</hi> 1682. with Two Sureties, given Bond of 2000. <abbr>
+                     <hi>l.</hi>
+                  </abbr> to Sir <hi>Richard,</hi> Conditioned, among o<g ref="char:EOLhyphen"/>ther things, Not to carry any Perſon from off the Iſland, without a Ticket.</p>
+               <p>HE arrived in <hi>London,</hi>
+                  <note place="margin">
+                     <hi>Feb.</hi> 22. 82.</note> and immediately entred his Appearance at Council-Board, to ſhew, That he did not fly from Juſtice, but to the Supream Foun<g ref="char:EOLhyphen"/>tain thereof for Relief, againſt the higheſt Oppreſſion that perhaps ever was put upon an Innocent Subject.</p>
+               <p>HE exhibited his Second Petition of Appeal,
+<note place="margin">
+                     <hi>Feb.</hi> 82.</note> relating to his illegal Impri<g ref="char:EOLhyphen"/>ſonment, therein acknowledging his having made his Eſcape from Priſon, begg'd Pardon for the ſame; further praying, That Captain <hi>Young,</hi> and his Sureties, might not be proſecuted on the aforeſaid Bond, for bringing him over, offering to give good Security to proſecute his Appeal, and abide His Majeſties Determination; which Petition was alſo referr'd to the Lords Committee, whoſe Lordſhips on Reading thereof, Ordered the Third Ap<g ref="char:EOLhyphen"/>peal, relating to the Ship, to be brought in within Fourteen Days. Accor<g ref="char:EOLhyphen"/>dingly,</p>
+               <p>THE ſaid Appeal was put in, and referr'd to the ſame Committee,
+<note place="margin">
+                     <hi>Mar.</hi> 10. 82.</note> whoſe Lordſhips having all Three Cauſes before them, did</p>
+               <p>ORDER the hearing of the Firſt Cauſe to be put off till Sir <hi>Richard</hi>'s ar<g ref="char:EOLhyphen"/>rival in <hi>England</hi> (tho his Anſwer and Copies of Records were then all before them, and the Cauſe ready for hearing); and alſo Ordered,
+<note place="margin">
+                     <hi>Mar.</hi> 22. 82.</note> That Sir <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> ſhould have Copies of the Two latter Appeals, and anſwer the ſame without delay.</p>
+               <p>IN the laſt Appeal it was, among other things, pray'd,</p>
+               <p>THAT all Three Cauſes might be heard together at Council-Board.</p>
+               <p>THAT the Appellants Witneſſes might be examined before their being ſent back to <hi>Barbadoes.</hi>
+               </p>
+               <p>THAT the Conſideration of the whole matter of all his Appeals, might be referr'd to ſome of the Judges at Common Law, and Judg of the Admiralty, to conſider, and Report their Opinion in point of Law thereon.</p>
+               <p>SIR <hi>Richard</hi> being arrived, <hi>Hanſon</hi> petitioned,
+<note place="margin">
+                     <hi>July</hi> 20. 83.</note> That he might forthwith anſwer the Two latter Appeals.</p>
+               <p>THAT all the Cauſes might be heard together at Council-Board: and that ſome of the Judges at Common Law, and Judg of the Admiralty, might be preſent at ſuch hearing, to deliver their Opinions in the Points of Law: Upon Reading whereof, Sir <hi>Richard</hi> was Ordered to anſwer within One Week.</p>
+               <pb n="8" facs="tcp:46416:5"/>
+               <p> SIR <hi>Richard</hi> put in his Anſwers;
+<note place="margin">
+                     <hi>July</hi> 27. 83.</note> both which were referr'd to the Lords Committee aforeſaid, with Directions for their Lordſhips to appoint ſuch day for hearing the whole Matter of all Three Cauſes, as they ſhould think fit.</p>
+               <p>
+                  <hi>HANSON</hi> reply'd to Sir <hi>Richard's</hi> Anſwer;
+<note place="margin">
+                     <hi>Aug.</hi> 10. 83.</note> both which were full of ſcan<g ref="char:EOLhyphen"/>dalous Reflections upon his Perſon; and by ſuch his Reply, contradicted every Paragraph thereof; which being Read, was alſo referr'd to the ſaid Lords Committee, whoſe Lordſhips</p>
+               <p>ORDERED all Three Cauſes to be heard the 2d of <hi>October</hi> following.
+<note place="margin">
+                     <hi>Aug.</hi> 17. 83 <hi>Octob.</hi> 2. 83</note>
+               </p>
+               <p>THE Cauſe upon the Firſt Appeal, relating to the 150. <abbr>
+                     <hi>l.</hi>
+                  </abbr> Fine, was heard, all the Allegations of the Petition made clear, and Sir <hi>Richard</hi>'s Anſwer confuted by his own Witneſſes, and the Committe ſatisfied, that he had not proceeded regularly, in ſetting the Fine himſelf, without the con<g ref="char:EOLhyphen"/>currence, and againſt the Conſent of the whole Court.</p>
+               <p>WHEREUPON Sir <hi>Richard</hi> alledged, he could make it appear, he ſet the ſame by Conſent of the Majority of the Judges and Juſtices then pre<g ref="char:EOLhyphen"/>ſent; for which purpoſe he had time given him to the 9th of that Month, and Mr. Attorney General ordered to be then preſent on behalf of His Majeſty.</p>
+               <p>THE Cauſe came again to be heard,
+<note place="margin">
+                     <hi>Octob.</hi> 9. 83.</note> when Sir <hi>Richard</hi>'s own Witneſſes being examined upon Oath, ſwore contrary to all his Aſſertions; upon which, as alſo upon hearing the Teſtimony of ſeveral of the moſt Eminent Planters, the Lords Committee declared, They were fully ſatisfied, That the Fine was irregularly impoſed; and were proceeding on to hearing the Two latter Appeals; but Sir <hi>Richard</hi> and his Council alledging, That they were not ready (nor could be) for ſuch hearing, until they had Witneſſes from <hi>Barbadoes</hi> (an Allegation ſo far from ever being made be<g ref="char:EOLhyphen"/>fore that time, as that in his Anſwer to them, he ſubmitted to an Hearing), their Lordſhips were prevailed with to give him Five Months longer for preparing ſuch Evidence as was neceſſary, with liberty himſelf to go over, and examine ſuch Witneſſes as he ſhould think fit, and the Cauſes to be heard in his Abſence.</p>
+               <p>WITH this Rule of their Lordſhips, <hi>Hanſon</hi> was well ſatisfied (tho obliged thereby to remain here from his Wife, Family and Eſtate, during that time), until coming out of the Council, Sir <hi>Richard</hi> threatned in the <hi>Lobby,</hi> to Indict and Out-law him for Murther, and to hang him, if ever he came upon the Iſland, and to ruine his Eſtate, tho he ſhould not come there.</p>
+               <p>THIS put him upon conſulting with his Council, which way he might take to keep Sir <hi>Richard</hi> here till the Cauſes were heard, that ſo his Eſtate might not be deſtroyed in his Abſence; whoſe Advice was, To proceed againſt him at <hi>Common Law,</hi> upon an Action of <hi>Trover</hi> for his Ship, and of Falſe Impriſonment, for committing him to the <hi>Provoſt Morſhal,</hi> and keeping him Five Weeks there; aſſuring him, That whenever the ſaid Appeals ſhould come to be heard at <hi>Council-Board,</hi> their Lordſhips would not intermeddle with aſſeſſing his Damages, having denied to do the ſame but the year before, in the very ſame Caſes which then happened between Capt. <hi>Mingham</hi> and Sir <hi>Henry Morgan,</hi> Deputy Governor of <hi>Jamaica;</hi> in which Cauſe they declared, They could not Aſſeſs Damages, only left <hi>Ming<g ref="char:EOLhyphen"/>ham</hi> to proceed at Law for the ſame, and took off Sir <hi>Henry Morgan</hi>'s Prote<g ref="char:EOLhyphen"/>ction. Whereupon</p>
+               <p>
+                  <hi>HANSON</hi> Petitioned His late Majeſty in Council,
+<note place="margin">
+                     <hi>Octob.</hi> 26. 83.</note> and for the Reaſons therein contained, prayed,</p>
+               <p>FIRST Leave to proceed againſt the ſaid Sir <hi>Richard</hi> at Common Law, upon the ſaid Action, offering to ſtay Six Months before coming to a Trial,
+<pb n="9" facs="tcp:46416:5"/>that Sir <hi>Richard</hi> might have his Witneſſes, ſo as he would give Bail before his going over.</p>
+               <p n="2">2. THAT a Commiſſion might be iſſued into <hi>Barbadoes,</hi> to impower in<g ref="char:EOLhyphen"/>different Perſons to examine each Parties Witneſſes in that Iſland.</p>
+               <p n="3">3. THAT Mr. <hi>Steed,</hi> Mr. <hi>Davis,</hi> and Mr. <hi>Newton,</hi> alledged by Sir <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> to be material Witneſſes for him, might be examined on Oath.</p>
+               <p n="4">4. THAT no Evidence might be made uſe of at the hearing, but what ſhould be taken upon Oath.</p>
+               <p n="5">5. THAT <hi>George Hanna</hi> the <hi>Provoſt Marſhal,</hi> a material Witneſs for <hi>Hanſon,</hi> might perfect his Examination, the which he had been above Six Months about, and had not then done.</p>
+               <p>WHICH Petition was referr'd to the ſaid Lords Committee, with order that Care ſhould be taken that <hi>Hanna</hi> perfect his Examination before his Departure; and that Sir <hi>Richard</hi> ſhould forthwith put in his anſwer there<g ref="char:EOLhyphen"/>to before their Lordſhips; with which Order their Lordſhips were attend<g ref="char:EOLhyphen"/>ed, and <hi>Hanſon</hi> waited with his Council three days, thinking he ſhould have been heard thereupon, but was not called in, nor did he ever hear of any Anſwer put in by Sir <hi>Richard</hi> thereto, until</p>
+               <p>WHEN the Right Honourable the Lords Committee made a Report to His Majeſty in Council; Wherein,
+<note place="margin">
+                     <hi>Nov.</hi> 7. 83.</note>
+               </p>
+               <p>FIRST, They offered as their Opinion, that the Fine of 150 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+                  <note place="margin">No new Proofs were ever yet admitted on an Appeal; to admit the ſame, were the only way to make an Inlet to all Perjury, a thing of dan<g ref="char:EOLhyphen"/>gerous Conſequence.</note> was irre<g ref="char:EOLhyphen"/>gularly ſet, but deſired to hear the whole Matter again, and to have a new Examination thereof, and that Five Months time might be given to tranſmit ſuch Records, Proofs, and Informations as ſhould be neceſſary thereto.</p>
+               <p n="2">2. THAT Sir <hi>Richard</hi> with the Council there might cauſe all neceſſary Proofs to be taken upon Oath on either ſide, and tranſmitted over.</p>
+               <p n="3">3. THAT in the mean time the 150 <abbr>
+                     <hi>l.</hi>
+                  </abbr> remain where it then was, and all Three Cauſes to be heard together.</p>
+               <p n="4">4. THAT <hi>Hanna</hi> perfect his Examination within one Month, ſo as <hi>Han<g ref="char:EOLhyphen"/>ſon</hi> give him a full and final releaſe from all damages that might ariſe to him by anſwering any Interrogations that ſhould be put to him: Which Report was confirmed that day; but <hi>Hanſon</hi> before he heard thereof, on the</p>
+               <p>SENT a Letter to Sir <hi>Richard</hi> to acquaint him with his Reſolutions of proceeding againſt him at Common Law for his falſe Impriſonment,
+<note place="margin">
+                     <hi>Nov.</hi> 8. 83.</note> and the Ship he took from him, writ him the Name of his Attorney; and deſired an Appearance and Bail without further Trouble or Charge.
+<note place="margin">
+                     <hi>Nov.</hi> 14. 83.</note>
+               </p>
+               <p>SIR <hi>Richard</hi> petitioned his Majeſty in Council, a Copy whereof was or<g ref="char:EOLhyphen"/>dered to <hi>Hanſon,</hi> and he required to Anſwer the ſame on the 16th of that Month.</p>
+               <p>
+                  <hi>HANSON</hi> put in his Anſwer thereto,
+<note place="margin">
+                     <hi>Nov.</hi> 16. 83.</note> and thereby confuted all the ſcan<g ref="char:EOLhyphen"/>dalous Matter therein contained, ſubmitted his Caſe wholly to His late Maje<g ref="char:EOLhyphen"/>ſties Royal Conſideration, and prayed,</p>
+               <p>FIRST, Liberty to proceed at Law as aforeſaid,</p>
+               <p n="2">2. THAT a Commiſſion might iſſue to impower indifferent perſons to examine Witneſſes in <hi>Barbadoes,</hi> as before he had pray'd (if any new Evi<g ref="char:EOLhyphen"/>dence ſhould be thought fit to be admitted upon an Appeal.)</p>
+               <p n="3">3. OR that he might be heard by his Council at that moſt Honourable Board upon the whole matter, before Sir <hi>Richard</hi>'s going over.</p>
+               <p>TO which anſwer he annext ſeveral Articles of High Miſdemeanor againſt Sir <hi>Richard,</hi> on behalf of the Inhabitants of the Iſland: on reading whereof;</p>
+               <p>FIRST, It was ordered that it ſhould be left to <hi>Hanſons</hi> choice, whether he would proceed at Commen Law, or attend the Determination of his Appeals at that Board.</p>
+               <p n="2">
+                  <pb n="10" facs="tcp:46416:6"/> 2. THAT unleſs <hi>Hanſon</hi> releaſed Sir <hi>Richard</hi> from all further Proſecution at Common Law upon the Matters of the ſaid Appeals before the 21ſt of that Month, the Two latter Appeals ſhould ſtand diſmiſt.</p>
+               <p n="3">3. THAT Mr. Attorney General, and Mr. <hi>Graham,</hi> on his Majeſties behalf ſhould take effectual Care to aſſiſt Sir <hi>Richard</hi> in the Suits proſecuted againſt him by <hi>Hanſon.</hi>
+                  <note place="margin">
+                     <hi>Nov.</hi> 21. 83.</note>
+               </p>
+               <p>
+                  <hi>HANSON</hi> put in his Anſwer to that Order, and therein ſet forth,</p>
+               <p>FIRST, That he never doubted his Majeſties and that moſt Honourable Boards Juſtice.</p>
+               <p n="2">2. NEITHER did or would he wave the ſame.</p>
+               <p n="3">3. THAT he would always ſubmit any Cauſe of his to His Majeſties Royal Determination, ſo as the ſame could properly come before Him in Judgment; and would have waited the Five Months aforeſaid, and the hear<g ref="char:EOLhyphen"/>ing of the Cauſes before any proceeding at Law; but that,</p>
+               <p>FIRST, Sir <hi>Richard</hi> and the Council in <hi>Barbadoes</hi> were not only appoint<g ref="char:EOLhyphen"/>ed to examine his own, but <hi>Hanſons</hi> Witneſſes alſo, and that not only in the firſt, but the two latter Appeals, both which concern'd Sir <hi>Richard</hi> alone; a thing without Preſident, and of dangerous Conſequence to be led in example, and would prove fatal to <hi>Hanſon</hi> in depriving him of his Witneſ<g ref="char:EOLhyphen"/>ſes Teſtimony; for that none of them would dare to come before Sir <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> to be examined, and no other Perſon durſt take their Affidavits againſt their Governour, unleſs appointed thereto.</p>
+               <p n="2">2. BECAUSE the Order aforeſaid, which ſeemed to leave <hi>Hanſon</hi> to his Election, was ſo penn'd, as that it took away from him that Freedom, and obliged him to proceed at Law, in as much as he was thereby obliged imme<g ref="char:EOLhyphen"/>diately to releaſe Sir <hi>Richard</hi> if he intended to abide the hearing of that Board; which if he ſhould do, and the Council upon hearing ſhould (as they had in the aforeſaid Caſe of <hi>Mingham</hi>) declare they could not aſſeſs Damages, therefore leave him to law for the ſame; then would ſuch Releaſe be pleaded in Bar to his Declaration, which he could not conceive was de<g ref="char:EOLhyphen"/>ſigned by the Lords of the Council, no more than they would order Mr. Attorney General, and Mr. <hi>Graham</hi> on his Majeſties behalf to defend Sir <hi>Richard</hi> againſt <hi>Hanſons</hi> ſuits, which were civil Cauſes ariſing by matters between him and Sir <hi>Richard;</hi> and His Majeſty no way concerned therein as a Party; and yet even that was ordered alſo.</p>
+               <p>BUT the ſaid <hi>Hanſon</hi> did then offer in his ſaid Anſwer,</p>
+               <p>FIRST, To refer all the Matters in Difference between him and Sir <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> to any Perſon of Honour or known Honeſty, even to the neareſt Re<g ref="char:EOLhyphen"/>lation and beſt Friend Sir <hi>Richard</hi> had: Or,</p>
+               <p n="2">2. TO take what Sir <hi>Richards</hi> own Council and Sollicitor had offer'd him after the firſt hearing about the fine, tho not a Fifth Part of his Damages, rather than to have any further Conteſt or Trouble.</p>
+               <p n="3">3. TO ſtay all Proceedings at Law till the hearing appointed ſhould be over, ſo as he might not (for the Reaſon beforementioned) be obliged to Releaſe Sir <hi>Richard:</hi> And ſo as,</p>
+               <p n="4">4. TWO indifferent Perſons on either ſide might be appointed to examine both Party's Witneſſes fairly and impartially (if any ſuch new Witneſſes ſhould be admitted to Examination) and ſo as all Proceedings upon the Maſters of the Ship's Bond that brought him over, might be ſtayed till after ſuch hearing.</p>
+               <p>UPON reading whereof <hi>Hanſon</hi> was left to his free Election to be decla<g ref="char:EOLhyphen"/>red by the then next Council Day whether he would proceed at Law, or abide the hearing at that Board, without altering any thing in the former Orders.</p>
+               <p>
+                  <hi>HANSON</hi> by his Anſwer for the Reaſons aforeſaid,
+<note place="margin">
+                     <hi>Nov.</hi> 23. 83.</note> was obliged to make Choice to proceed at Common Law, therefore prayed,</p>
+               <pb n="11" facs="tcp:46416:6"/>
+               <p> FIRST, That Sir <hi>Richard</hi> might be ordered to appear and put in Bail.</p>
+               <p n="2">2d. THAT he may Anſwer the General Articles Exhibited againſt him, on behalf of the Iſland, before his going thither; whereupon it was Or<g ref="char:EOLhyphen"/>derd.</p>
+               <p>FIRST, That <hi>Hanſons</hi> two latter Apeals be diſmiſt.</p>
+               <p>SECONDLY, That his firſt about the 150 <abbr>
+                     <hi>l.</hi>
+                  </abbr> fine,
+<note place="margin">Before Fines were ſet by Majority of Votes of the Judges and Juſtices peſent: But by this new Order, they were to be ſet by the Governour and Council, whom he always Governs.</note> ſhould be tranſmitted into <hi>Barbadoes;</hi> and a new fine be ſet upon him, in purſuance of that for<g ref="char:EOLhyphen"/>mer Verdict, by the Court of Grand Seſſions; who by the ſaid Order, are directed to proceed to a new Judgment thereupon in that Iſland according to His Majeſties new Regulation then made.</p>
+               <p n="3">3dly, CAPTAIN <hi>Youngs</hi> Bond of 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> penalty, to be put in Suit by His Majeſties Attorney General, for bringing <hi>Hanſon</hi> over without a Tick<g ref="char:EOLhyphen"/>et.</p>
+               <p n="4">4. SIR <hi>Richard</hi> to anſwer the General Articles, by the 30th of that Month.</p>
+               <p>SIR <hi>Richard</hi> had time given to anſwer till the 5th <hi>December</hi> following.
+<note place="margin">
+                     <hi>Nov.</hi> 30. 83. <hi>Decemb.</hi> 5.</note>
+               </p>
+               <p>HE put in his Anſwer, full of ſcandalous Reflections upon the ſaid <hi>Han<g ref="char:EOLhyphen"/>ſon;</hi> on Reading whereof, it was ordered that he ſhould be at Liberty, to proceed on his Voyage to <hi>Barbadoes,</hi> notwithſtanding the General Articles Exhibited againſt him, which Articles and Anſwer thereto, were referr'd to the Lords Commitee aforeſaid.</p>
+               <p>
+                  <hi>HANSON</hi> by Petition,
+<note place="margin">
+                     <hi>Dec.</hi> 19. 83.</note> Humbly offer'd ſeveral reaſons againſt the ſe<g ref="char:EOLhyphen"/>verity of the Order of the 23d. <hi>November;</hi> upon reading whereof, he had then again Liberty given him till next Council Day, to chuſe whether to proceed at Law, or abide the hearing of that Board; but ſtill upon the ſame Terms, and under the ſame Inconveniences as before, <hi>viz.</hi> To Releaſe Sir <hi>Richard,</hi> and he to Examine (with ſuch of the Council as he ſhould think fit) the Witneſſes on both ſides; which Order neither <hi>Hanſon</hi> or his Coun<g ref="char:EOLhyphen"/>cil believed would have been made, if his Petition which was forced to be long, had been fully read.</p>
+               <p>
+                  <hi>HANSON</hi> put in his Anſwer to the former Order,
+<note place="margin">
+                     <hi>Jan.</hi> 9. 83</note> together with a Reply to Sir <hi>Richards</hi> Anſwer to the General Articles Exhibited againſt him, by which he well hoped he had clearly Evinced the ſaid anſwer to be in all parts of it, (which related to himſelf) not only ſcandalous, but untrue in every particular thereof, and as to all other matters very cunning and fa<g ref="char:EOLhyphen"/>lacious. Which done,</p>
+               <p>FIRST, He therein declared, that as he ever was, ſo he is ſtill, and ever ſhould be ready to Subject his Perſon, his Eſtate, and what ever Contro<g ref="char:EOLhyphen"/>verſie he had, to His Majeſties Royal Pleaſure and Determination at that moſt Honourable Board, ſo as the ſame might come before him without be<g ref="char:EOLhyphen"/>ing prejudiced (by Sir <hi>Richard</hi> and his Council their having the Examina<g ref="char:EOLhyphen"/>tion of his Witneſſes) and declared he had no deſign to proceed at Law, when he firſt ſent to Sir <hi>Richard</hi> for an appearance till after the hearing be<g ref="char:EOLhyphen"/>fore his Majeſty, his only intent therein being to have an Appearance befor his going over, that ſo he might have proceeded againſt him in his abſence; if upon ſuch hearing, his Majeſty ſhould think fit to leave him to Common Law, as he had done in the very ſame Caſe with Captain <hi>Mingham,</hi> whoſe Ship Sir <hi>Henry Morgan</hi> had Condemned and Sold, and Impriſoned his Perſon for Appealing to this moſt Honourable Board from that Sentence of Con<g ref="char:EOLhyphen"/>demnnation.</p>
+               <p n="2">2d. THAT he had never choſe to go to Law when left to his Electi<g ref="char:EOLhyphen"/>on, if by the ſame Order he had not been obliged to Releaſe Sir <hi>Richard</hi> immediately, if he ſhould Elect to abide the hearing of that Board, and therefore offer'd as followeth.</p>
+               <pb n="12" facs="tcp:46416:7"/>
+               <p> THAT ſo as his Appeals might remain as they did, upon the hearing 9th <hi>October</hi> 83, till the hearing of the Cauſes appointed in <hi>February</hi> then next following, and be then heard, and all proceedings relating to any of the matters therein contained in the mean time ſtay'd, and no new Evidence admitted of, in that firſt Apeal which had been fully heard; that then and in ſuch Caſe he was ſtill willing to wait the hearing appointed, and abide the Determination thereof, ſo as</p>
+               <p>SIR <hi>Richard</hi> before his going to <hi>Barbadoes</hi> would appoint an Attorney to appear for him, if his Majeſty in Council ſhould think fit upon the hearing to refer him to Common Law, for recovering his Damages, Which offer <hi>Hanſons</hi> Council adviſed him was (as they conceived) all that the Order of Council required, or at leaſt deſigned. Nevertheleſs</p>
+               <p>AN Order of Council was paſt,
+<note place="margin">
+                     <hi>Jan.</hi> 9. 83.</note> whereby the ſaid Offer is declared not ſatisfactory to that moſt Honourable Board, and that they did not find any reaſon to alter what had been ordered relating to the ſaid Sir <hi>Richard,</hi> and <hi>Hanſons</hi> Caſes, therefore directed all former Orders to ſtand.</p>
+               <p>
+                  <hi>HANSON</hi> perceiving that nothing by him offer'd did prove ſatisfactory, reſolved (if poſſible) to treat with Sir <hi>Richard</hi> for an amicable Compo<g ref="char:EOLhyphen"/>ſure of the Difference between them, and for that purpoſe prevailed (by the Interpoſition of one of Sir <hi>Richard</hi>'s neareſt Relations (a Perſon of great Quality) to be admitted into his Company, where according to the Direction of the Order of Council aforeſaid; he offer'd to ceaſe all Pro<g ref="char:EOLhyphen"/>ſecution at Law againſt him, for the Matters contained in his two latter Appeals, and to Seal to him the Releaſe thereby directed; Provided he would promiſe to aſſiſt him with his Intereſt for the obtaining a hearing upon his ſaid Appeals, and in the getting back the 150 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Levied upon him for a Fine, and the 251 <abbr>
+                     <hi>l.</hi>
+                  </abbr> raiſed by Sale of his Ship; and ſo as he would undertake that there ſhould be no further Proceedings againſt Capt. <hi>Young,</hi> or his Sureties, on the 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Bond. Nor no new Fine ſet upon him in the Iſland, upon the aformentioned Verdict; whereby he was found Guilty of a Fraudulent buying 12 Guns belonging to <hi>Rodrigus</hi> a <hi>Jew,</hi> nor any prejudice come to one Bird, who came into <hi>England,</hi> and was Ex<g ref="char:EOLhyphen"/>amined as a Witneſs againſt him in Council.</p>
+               <p>TO which Propoſition Sir <hi>Richard</hi> readily conſented, faithfully promi<g ref="char:EOLhyphen"/>ſed in the preſence of his ſaid Friend and Relations to perform them all; with this further Aſſurance, that he would be <hi>Hanſon</hi>'s real Friend, ſerve him in what he could, and make him Great upon the Iſland; offer'd to carry him over with him in the <hi>Diamond Frigat,</hi> and profeſt that nothing of former Differences ſhould be remembred, but be utterly forgotten, as if they had never been: But advis'd him at the ſame time, not to proſecute the hearing of his Appeals too ſpeedy, becauſe he had ſo lately repreſented him an Ill man to the King, as that he could not preſently give His Majeſty any other Character of him; adding further, that tho Sir <hi>John Witham</hi> (to whom the Order of Council, which directed the Suing <hi>Young</hi>'s Bond, and laying a new Fine on <hi>Hanſon</hi> was ſent) had Proceeded againſt <hi>Young</hi> and his Sureties to Judgment; yet would he put a ſtop to all further Proceed<g ref="char:EOLhyphen"/>ings, and take care that no Prejudice ſhould come to <hi>Young</hi> and his Sure<g ref="char:EOLhyphen"/>ties, or <hi>Hanſon</hi> thereby, nor by the Impoſing of any new Fine upon him.</p>
+               <p>
+                  <hi>HANSON</hi> relying on this Aſſurance of Sir <hi>Richards</hi> invited Sir <hi>Richard</hi> to a Treat, and there gave order to ſtop all Proceedings at Law againſt him, and ſealed a Releaſe drawn by Sir <hi>Richard</hi>'s own Council (who had alſo drawn one from Sir <hi>Richard</hi> to <hi>Hanſon,</hi> which he offer'd to Seal, but <hi>Han<g ref="char:EOLhyphen"/>ſon</hi> refuſed to accept of.) Sir <hi>Richard</hi> then invited <hi>Hanſon</hi> to another Treat at the ſame place, where they met with Friends on both ſides; at which time,
+<pb n="13" facs="tcp:46416:7"/>all the Promiſes before-mentioned were renewed by Sir <hi>Richard,</hi> upon which, <hi>Hanſon</hi> promiſed to follow him to <hi>Barbadoes.</hi>
+               </p>
+               <p>SIR <hi>Richard</hi> ſoon after ſet Sail.</p>
+               <p>BUT before <hi>Hanſon</hi> went away, he had notice</p>
+               <p>THAT Sir <hi>John Witham</hi> had made Collonel <hi>Edwin Steed</hi> chief Baron of His Majeſties Court of Exchequer, for trying the Cauſe upon the afore<g ref="char:EOLhyphen"/>ſaid Capt. <hi>Richard Young</hi>'s 2000 <abbr>
+                     <hi>l</hi>
+                  </abbr> Bond, to which Court</p>
+               <p>
+                  <hi>RICHARD SEAWELL</hi> Eſq; His Majeſties Attorney General,
+<note place="margin">
+                     <hi>Jan.</hi> 19. 83/4.</note> came and exhibited three ſeveral Informations, one againſt <hi>Young,</hi> the other two againſt each of his Sureties, <hi>Matthew Haviland</hi> and <hi>John Fowler;</hi> theſe In<g ref="char:EOLhyphen"/>formations were in His Majeſties name, and on his behalf proſecuted; but the Bond was entred into, to Sir <hi>Richard Dutton,</hi> and never by him aſſign<g ref="char:EOLhyphen"/>ed to the King.</p>
+               <p>The Information ſets forth, That on <hi>September</hi> 18. 1682. <hi>Young, Havi<g ref="char:EOLhyphen"/>land</hi> and <hi>Fowler</hi> became joyntly and ſeverally bound to the ſaid Sir <hi>Richard Dutton,</hi> Governour of <hi>Barbadoes,</hi> in a Bond of 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> penalty, condi<g ref="char:EOLhyphen"/>tioned among other things, that <hi>Young</hi> ſhould not carry off any perſon whatſoever, White or Black, without a Ticket from the ſaid Sir <hi>Richard</hi> or his Succeſſors, Deputy or Deputies.</p>
+               <p>THAT contrary to this Bond,
+<note place="margin">Note, <hi>Whatever</hi> Creſſet <hi>Writ was in kindneſs to Sir</hi> Richard, <hi>and prov'd to be truth: For the King and Council have declared that Judgement erroneous which</hi> Hanſon <hi>complain<g ref="char:EOLhyphen"/>ed of, and</hi> Creſſet <hi>writ ſome of the Lords were of opinion would be reverſt when the Cauſe came to hearing, therefore advis'd him to end the matter there, which was all the Letter.</hi>
+                  </note> 
+                  <hi>Young</hi> carrid off <hi>Samuel Hanſon</hi> a Planter and Reſident on the Iſland, without a Ticket, which <hi>Hanſon</hi> was then a Priſoner for Crimes and Miſdemeanors committed againſt His Majeſty, con<g ref="char:EOLhyphen"/>tained in an Order of the Governour and Council made <hi>October</hi> 31. 1682. which Order recites, That <hi>Hanſon</hi> was committed ſome days before, by Warrant from Sir <hi>Richard</hi> (for divulging the Contents of a Letter ſent to him by <hi>John Creſſet</hi> of <hi>London,</hi> Sollicitor, in which Sir <hi>Richard</hi> was tradu<g ref="char:EOLhyphen"/>ced, and ſome Lords of the Kings moſt Honourable Privy Council unfitly mentioned, and expoſed to the Malicious Cenſure of the diſaffected in that Iſland to His Majeſties Government) and ordered to remain in cuſtody till with ſufficient Sureties he ſhould enter into a Recognizance of 10000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> before three of His Majeſties Council, to anſwer the ſame, and other miſde<g ref="char:EOLhyphen"/>meanours committed.</p>
+               <p>IT alſo recites, That <hi>Hanſon</hi> appeared that day before the Council, and upon Examination, denyed that he had ſeen the Letter ſo directed as afore<g ref="char:EOLhyphen"/>ſaid, but confeſſed he received a Copy thereof from one <hi>South</hi> his Corre<g ref="char:EOLhyphen"/>ſpondent, which Copy he produced, and upon Examination was found a true Copy, the which he confeſt he had ſhown, or read to three perſons, or ſuf<g ref="char:EOLhyphen"/>fered them to read it; for which and other miſdemeanors he had done to Sir <hi>Richard,</hi> he was remanded till he ſhould find Surties as aforeſaid, and for the good Behaviour; and the Copy of his Letter to remain in the Secretaries Office, till Sir <hi>Richard</hi> ſhould think fit to make uſe of the ſame there, or in <hi>England.</hi>
+               </p>
+               <p>THEREFORE the Attorney General inſiſted that the 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> (being the penalty of the Bond) for breach of the Condition thereof in bringing away <hi>Samuel Hanſon,</hi> was become due to His Majeſty, and prayed a Judge<g ref="char:EOLhyphen"/>ment for the ſame.</p>
+               <p>
+                  <hi>Young, Haviland</hi> and <hi>Fowler</hi> by Council appeared, prayed time to plead,
+<note place="margin">
+                     <hi>Feb.</hi> 2. 83/4.</note> and had till the <hi>Thurſday</hi> following given for that purpoſe.</p>
+               <p>THEY all Three pleaded ſeverally.
+<note place="margin">
+                     <hi>Feb.</hi> 6. 83/4.</note>
+               </p>
+               <p>THEY proteſted againſt the Information, adding, that the matter therein contained was not ſufficiently ſet forth, and denied that they were guilty of any contempt againſt the King, or breach of his Laws in manner and form, as in the Information was ſet forth; but for further Plea,</p>
+               <p n="1">1. THEY ſaid, that upon the Conſtruction of the Law, it is evident that the intent of entring into ſuch Bonds as aforeſaid, was only to ſecure
+<pb n="14" facs="tcp:46416:8"/>the Inhabitants of the Iſland, who ſhould have their Debtors or Slaves car<g ref="char:EOLhyphen"/>ried off without a Ticket.</p>
+               <p n="2">2. THAT by conſtant uſage the Governors have ever ſince the Act made, aſſigned over ſuch Bonds to the Perſons agrieved by the carrying off any Perſon contrary to the form of the Act, which Implies the Governors by that Act are only made Truſtees for the Inhabitants in ſuch Caſes. <hi>Opti<g ref="char:EOLhyphen"/>ma eſt Legum Interpres Conſuetudo.</hi>
+               </p>
+               <p n="3">3. ALL ſuch Aſſignments as by the Act are directed, would be void, if the ſaid Bonds ſhould be conſtrued to be made to the Governors in truſt for the King; for in ſuch Caſe, the Governors connot Aſſign the King's Debt to any Perſon, Eſpecially if not Creditors of the Kings.</p>
+               <p n="4">4. If it ſhould be alledged that the King is damnified by <hi>Young</hi>'s carrying off <hi>Hanſon,</hi> yet is the information defective in its not ſetting forth wherein and how much of which the Court ought to judg, whereby the Defendants are outed of their Appeal granted by an Act of the Iſland, Entituled, An Act for the eſtabliſhing the Court of Common Pleas within the ſame.</p>
+               <p n="5">5. <hi>HAVILAND</hi> and <hi>Fowler</hi> pleaded that the Attorney General had be<g ref="char:EOLhyphen"/>fore exhibited an Information againſt <hi>Young</hi> the Principal for the ſaid 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> ſuppoſed due to the King, which they conceived amounted to a <hi>Prior</hi> Infor<g ref="char:EOLhyphen"/>mation.</p>
+               <p n="6">6. THEY inſiſted that they ought not to be charged in that Court till re<g ref="char:EOLhyphen"/>turn made, That the Principal could not be found, or was inſolvent: <hi>Magna Charta</hi> Cap. 8. ſaith as followeth, Neither ſhall the Pledges of the Debtor be diſtrained, as long as the Principal Debtor is ſufficient; if the Principal fail of Payment, having nothing wherewith to pay, or will not pay where able, then the Pledges to anſwer.</p>
+               <p n="7">7. THEY ſay, taking ſuch Bonds by any Perſon for the uſe of the King, is expreſly prohibited by the Act of 33. <hi>Hen.</hi> 8. cap. 39. therefore the Act of that Iſland cannot be conſtrued to be repugnant to that Statute, <hi>&amp;c.</hi>
+               </p>
+               <p n="8">8. THEY inſiſted, that the ſaid Bond if at all ſuable for the King, ought not to be ſued in Sir <hi>Richard</hi>'s Name, all Bonds to the King's uſe being pro<g ref="char:EOLhyphen"/>hibited as aforeſaid from being taken in any name but his own.</p>
+               <p n="9">9. THEY alledged that the Attorney General in his Informations hath not ſhown that Sir <hi>Richard</hi> did aſſign the ſaid Bond to the King.</p>
+               <p n="10">10. THEY inſiſted that the Attorney General in his Informations hath not cited the proper Acts whereby any Officer is impowered to take any ſuch Bond with ſuch Condition endorſed as he pretends is forfeited to the King.</p>
+               <p n="11">11. THEY aver, that if the Information ſhould be ruled right to lye, then Judgmeet would be entred for 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and no relief againſt the intire penalty to be had, tho the Damages deſigned by the Act to be made good, ſhould not amount to a 20th part thereof, which would be a grievance expreſly a<g ref="char:EOLhyphen"/>gainſt the Letter of the Law, and contrary to the conſtant practice of re<g ref="char:EOLhyphen"/>covering Damages upon the ſaid Statute.</p>
+               <p n="12">12. THEY add, that by this method of proceedure they ſhould be depri<g ref="char:EOLhyphen"/>ved of the benefit of their Appeals expreſly provided for by the Act for ſet<g ref="char:EOLhyphen"/>ling the Court of Common Pleas, for that being a Court Inferior to this high Court, cannot be appealed to, from any Judgment given here; ſo that they muſt be left without any Adjuſtment of the Damages, which by the Law they are bound to repay, which the Act directs to be done by Court of <hi>Common Pleas,</hi> in Caſes where any Penalties are recovered. And there<g ref="char:EOLhyphen"/>fore directs that all thoſe Bonds ſhall be Sued in that Court.</p>
+               <p n="13">13. THE Court of <hi>Common Pleas</hi> cannot own a Juriſdiction in Caſe of Appeal from the Court of <hi>Exchequer,</hi> becauſe it is not provided for by a ſpecial Proviſo in the Act, which conſtitutes that Court; eſpecially, be<g ref="char:EOLhyphen"/>cauſe the Court of <hi>Exchequer</hi> was not then Eſtabliſht; but hath been
+<pb n="15" facs="tcp:46416:8"/>ſince Erected with a ſuperiority over that of the <hi>Common Pleas.</hi>
+               </p>
+               <p n="14">14. IF Bonds of this Nature ſhould be adjudged in conſtruction of Law, to Oblige the Obligor for the whole penalty, for every little or ſingle Breach thereof, then will the whole Iſland be left, for it will ruin all Trade and Comerce with them, from all parts of the World.</p>
+               <p>BECAUSE no prudent Man will at any time after, become bound with any Maſter of a Ship in ſuch Penalty, and under ſuch Conditions, when he ſhall find that for the ſmalleſt of Crimes committed the ſame ſhall be declar<g ref="char:EOLhyphen"/>ed, Forfeited to the King.</p>
+               <p>FOR theſe and other reaſons, they pray'd the Informations might abate.</p>
+               <p>THE cauſes were continued till next Court.
+<note place="margin">
+                     <hi>Mar.</hi> 1. 83/4.</note>
+               </p>
+               <p>THE Plea in abatement was over-ruled,
+<note place="margin">
+                     <hi>Mar.</hi> 13. 83/4.</note> and the Defendants ordered to plead next Court, or Judgment to be awarded.</p>
+               <p>THEY all three Pleaded, and in each of their Pleas,
+<note place="margin">
+                     <hi>Mar.</hi> 22. 83/4.</note> recited the Act which impowers the Governour to take ſuch Bonds; and averr'd, that the King ought not to have Judgment. For that by the ſaid Act, it is Enacted, that whatſoever perſon or perſons ſhall carry off in his Ship, Veſſel, or Boat, any Freeman Servant or Slave, (that have reſided there) without a Ticket for the ſame, that in ſuch caſe ſuch perſons bond ſhall be aſſigned to ſuch perſon or perſons as ſhould be thereby prejudiced, to be by them ſued, and the Penalty thereof recovered, out of which ſatisfaction to be made to the perſon prejudiced, with his Charge and Damages, and they Averr'd, that ſuch Bond is as well aſſignable to the King (if need were) as to any other perſon whatſoever; and affirm, that no ſuch Aſſignment was ever made; as alſo, that our Lord the King was not damnified by carrying off <hi>Hanſon</hi> in the ſaid Ship, in manner and form as in the Information was ſet forth; and of this, they and the Attorney General put themſelves upon their Country.</p>
+               <p>THE Attorney General by Proteſtation,
+<note place="margin">
+                     <hi>Mar.</hi> 29. 84.</note> not allowing the Pleas to be true, alledged, that they were all of them inſufficient in Law to diſcharge the Defendants; wherefore and for that, there was contained in them double matter, he demurr'd in Law, and pray'd Judgment, and for Cauſe of Demur<g ref="char:EOLhyphen"/>rer ſaid.</p>
+               <p>THAT the Defendants alledged in their Plea, That as to any thing contrary to the peace of the King, or in Contempt of the Law, they are not Guilty; and of that, put themſelves on the Country; ſo did the Attorney General, who</p>
+               <p>FURTHER ſaith, that the Defendants as to the Forfeiture of the 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Bond, of which he pray'd Judgment for the King, had pleaded the Act di<g ref="char:EOLhyphen"/>recting the taking ſuch Bonds, and all the ſpecial Matters ſet forth in their Plea above written, wherein there is double matter contained; therefore, and for other reaſons to be ſhown, <hi>Ore Tenus</hi> he pray'd Judgment of the ſaid 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for the King, againſt each of them.</p>
+               <p>THE ſame day the Defendants were obliged to joyn in Demurrer.</p>
+               <p>JUDGMENT was given of 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> a piece againſt <hi>Young,
+<note place="margin">
+                        <hi>Apr.</hi> 10. 84.</note> Haviland</hi> and <hi>Fowler,</hi> in all for 6000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for Relief, againſt which they Exhibited their Bill into the Chancery, to which Mr. Attorney General Demurr'd, and the Demurrer allow'd by the Court.</p>
+               <p>
+                  <hi>YO<g ref="char:V">Ʋ</g>NG</hi> finding himſelf and Sureties, thus proſecuted; he, when he came back to <hi>Barbadoes,</hi> made over to <hi>Haviland</hi> and <hi>Fowler</hi> a Bond of 5000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> penalty, which <hi>Hanſon</hi> had in <hi>London</hi> voluntarily given him, to ſave him harmleſs from any Damage that might ariſe by reaſon of his bring<g ref="char:EOLhyphen"/>ing him to <hi>England.</hi>
+               </p>
+               <p>NO ſooner had they that Bond, than to ſecure themſelves, they put it in Suit in the Court of <hi>Exchequer,</hi> where (tho <hi>Hanſon</hi> was in <hi>England</hi>) that Court forc't his Attornies to appear for him (howbeit their Letters of
+<pb n="16" facs="tcp:46416:9"/>Attorney had been abſolutely revok't above twelve Months before) and notwithſtanding a ſufficient Plea was by them put in on <hi>Hanſons</hi> behalf, yet was Judgment moſt irrigularly given againſt him for the whole Penal<g ref="char:EOLhyphen"/>ty of that Bond; and Copies of the Proceedings thereupon are denied him to this day.</p>
+               <p>
+                  <hi>HANSON</hi> being in <hi>London,</hi> and hearing of theſe Proceedings (juſt as he was going over, and after his goods and all things were on Board in order to his Voyage) reſolved to ſtay here and proſecute his Appeals, for which purpoſe he took all his Cloaths on Shore, and ſuffer'd the ſaid Ship to fall into the <hi>Downs;</hi> but adviſing with Sir <hi>Richard</hi>'s Friend, who was preſent when the Agreement aforeſaid was made, and who afterward very kindly had carried <hi>Hanſon</hi> to kiſs His Majeſties Hand before his Departure, he per<g ref="char:EOLhyphen"/>ſwaded him by all means to proceed on his Voyage aſſuring him that he was conſident, that when Sir <hi>Richard</hi> ſhould arrive on the Iſland, all pro<g ref="char:EOLhyphen"/>ceedings againſt him would be ſtopt, and his Promiſe and Undertaking be made good; and gave him a Letter to Sir <hi>Richard</hi> to preſs the ſame; upon which he followed the Ship into the <hi>Downs,</hi> and went to <hi>Barbodoes;</hi> where when he came and waited on Sir <hi>Richard,</hi> he was acquainted with all the matters aforeſaid at large, and told that he had given account thereof to his Majeſty, and ſent to know his Royal Pleaſure therein: But what Letter he writ, or whether he gave account of the agreement aforeſaid between them, or of the nature of the Law that directs the taking Bonds, or the deſtruction that it would be to the Navigation of the Iſland if ſuch a Preſi<g ref="char:EOLhyphen"/>dent were made and led in example, he knows not. However all Proceed<g ref="char:EOLhyphen"/>ings were ſtopt until in return of Sir <hi>Richard</hi>'s Letter, an Order of Council was ſent to Levy 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> upon the Judgment obtained on <hi>Young</hi>'s Bond, the ſame to be paid to <hi>Edwin Steed</hi> Eſquire, and he to return the ſame into the Exchequer here.</p>
+               <p>WHICH Order was made without the ſaid <hi>Hanſons</hi> being heard, or any on his behalf; and grounded on a Report made by his Majeſties Attorney General, whereby he declared his Opinion to be, that <hi>Young</hi>'s Bond was forfeited to the King by the bringing <hi>Hanſon</hi> into <hi>England;</hi> and by the wording of the Order, it ſeems to be grounded upon <hi>Hanſon</hi>'s having given ſecurity to <hi>Young</hi> to ſave him harmleſs.</p>
+               <p>NO ſooner did this Order arrive on the Iſland, than <hi>Hanſon</hi> was ſent for, told thereof, and required to pay the Money, which was impoſſible for him to do on a ſudden, ſuch a Sum not being to be had on the Iſland in a ſhort time. However he to ſhow his Duty to the King, and readineſs to comply with his Order in Council;</p>
+               <p>FIRST, Prayed the Liberty to bring his Appeal, and offered to give 10000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Security to abide ſuch Order of his Majeſty in Council as ſhould be made upon the hearing thereof, and to pay the Money in <hi>London,</hi> if not relieved by that moſt Honourable Board; this Sir <hi>Richard</hi> denied, aſſuring him he had nothing to do therewith, but referred him to Mr <hi>Steed,</hi> who de<g ref="char:EOLhyphen"/>clared the ſame, adding that he was no otherways concern'd than to receive and return the Money, when Levied and paid to him.</p>
+               <p>
+                  <hi>HANSON</hi> then uſed all means poſſible to get the money rather than to ſuffer his Plantation of 2000 <hi>
+                     <abbr>l.</abbr> per annum,</hi> to be deſtroyed; and ſo far pre<g ref="char:EOLhyphen"/>vailed, as that he was able, and offer'd to pay 500 <abbr>
+                     <hi>l.</hi>
+                  </abbr> in one Month, 500 <abbr>
+                     <hi>l.</hi>
+                  </abbr> three Months after, and the other 1000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> ſo ſoon as he could grind out his Sugar Canes, or ſell what he had ready made; which Propoſition was alſo rejected.</p>
+               <p>AFTER this he offered to aſſign Judgments, which he had from able Men on the Iſland, for the 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> demanded, and prayed aid in recovering the ſame for his Majeſties Uſe; the which would by no means be complied with;
+<pb n="17" facs="tcp:46416:9"/>but the whole Money inſiſted upon to be laid down, (which was impoſ<g ref="char:EOLhyphen"/>ſible for him to procure in ſo ſhort a time): <hi>Hanſon</hi> to ſhow his readineſs to comply (ſo far as it was in his Power) with the Order of His Majeſty and Council, offered to pay the ſaid Sum as faſt as he could raiſe the ſame by ſale of his Sugars and Moloſſes then made, and what he was to grind out of his preſent Crop; provided he might have leave to ſell his Goods to the beſt Advantage, and Mr. <hi>Steed</hi> to receive all the Money they ſhould be ſold for, and he not to intermeddle with one Penny, till the 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> ſhould be fully paid; this Favour was alſo denied him.</p>
+               <p>THESE and many other Propoſitions having been made and rejected, <hi>Hanſon</hi> had no more to do, than to wait the Event of the Fury deſigned againſt him, which he ſoon felt: For without any manner of Reſpite given him,</p>
+               <p>
+                  <hi>GEORGE HANNA</hi> Eſquire, <hi>Provoſt Marſhal,</hi> having Execution againſt <hi>Young</hi> and his Sureties for Three Two Thouſand Pounds, in all 6000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and againſt <hi>Hanſon</hi> upon his Bond to <hi>Young</hi> for 5000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> which <hi>Young</hi>'s Sureties (after Levying 170 <abbr>
+                     <hi>l.</hi>
+                  </abbr> or thereabouts, by ſeizing and ſelling 17 Head of great Cattle, 4 Negroes, 1 Horſe, and 6 Sheep), had aſſigned to the King for the ſatisfaction of the 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> a piece, recovered againſt them as Sureties for <hi>Young:</hi> Came to the ſaid <hi>Hanſon</hi> and demanded the ſame, together with about 700 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for the Fees for Levying thereof; which not being paid, he immediately extended (not his Houſes and Lands, which he might have done to a far greater value than the 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> penalty of the Bond, but) his Negroes, Cattel, Horſes, Sheep, Coppers, Stills, Moveables of his Windmills, and even the Tiles of his Houſes, which to have taken away to the Value of 1000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> would have rendred that Plantation (then worth 2000 <hi>
+                     <abbr>l.</abbr> per annum</hi>) not to be worth 10 <hi>
+                     <abbr>l.</abbr> per annum:</hi> Of this alſo the ſaid <hi>Hanſon</hi> complained, and humbly prayed that a ſtop might be put to ſuch rigorous Proceedings, deſi<g ref="char:EOLhyphen"/>ring only leave to ſell his Eſtate intire, on giving ſecurity that he would pay out of the firſt money raiſed by ſuch ſale, not only the ſaid 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> but Intereſt, Damages, and Charges for the forbearance (if the ſame ſhould be required): But could not prevail for any other anſwer, than that the Or<g ref="char:EOLhyphen"/>der of Council muſt be purſued; ſo that if he had not the 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> ready (which it was well known, was impoſſible for him to have) he muſt ex<g ref="char:EOLhyphen"/>pect the ſeverity of the Law, which he ſoon met with, and with ſuch ag<g ref="char:EOLhyphen"/>gravations, as that altho he had 170 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Levied on the 5000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Judgment, as aforeſaid, and put up his name in order to his going off the Iſland with his Family (to the end they might not be preſent to ſee that Eſtate deſtroyed, which with great Induſtry and frugality they had in 24 Years got together for their ſubſiſtance in their Old Age) yet was they denied a Ticket (tho underwrit by no Perſon whatſoever); and are kept on the Iſland in a man<g ref="char:EOLhyphen"/>ner confined to their Houſe; for that the ſaid <hi>Provoſt Marſhal</hi> came by Three in the Morning, with many Whites and Negroes, Armed with Pi<g ref="char:EOLhyphen"/>ſtols and Swords, beſet his Negroes Houſes, and Cattel-Pens, brought Iron Croes to break open his Doors, ſeiz'd ſome of his Negroes, and car<g ref="char:EOLhyphen"/>ried them away (refuſing to give any account how many he had ſeized) took away all his Horſes (only lent him one for a Day to ride to Mr. <hi>Steeed</hi> to deſire Favour), which he did, but in vain; for the next day the <hi>Provoſt Marſhal</hi> came again with Twenty Armed Men, and broke open his Doors, ſeized all his Sugars, Sugar Pots, Moloſſes, Drips, Proviſions, Coppers, Stills, Coolers, Ladles, Skimmers, and all other his Moveables, alſo broke open his Storehouſes in <hi>Bridg-Town,</hi> Seized all his Sugars there, and put a Guard into that, as well as made a Garriſon of his Houſe by leaving 6 Armed Men upon free quarter with him; the which he maintained as long as he had any Proviſion (that being alſo ſeized and
+<pb n="18" facs="tcp:46416:10"/>kept lock't up): So that altho there was great Quantity in his Storehouſes, yet he had not for himſelf, Children, Servants, or Soldiers any part thereof; inſomuch that one of his Negroes was brought home ſtarved, and more like to follow: He alſo ſeized <hi>Hanſon</hi>'s Overſeer, being a White, (the which he had train'd up to his Buſineſs, and entruſted with the Managery thereof) carried him to Priſon, to Enforce him to diſcover where ſome of the Ne<g ref="char:EOLhyphen"/>groes lay ſtragling abroad; kept him above a Month, and then ſold him pri<g ref="char:EOLhyphen"/>vately for 6 <abbr>
+                     <hi>l.</hi>
+                  </abbr> which was worth to him above 200 <abbr>
+                     <hi>l.</hi>
+                  </abbr> whereby he encouraged all his other Servants, not to obey any of his Commands.</p>
+               <p>THESE rigorous Proceedings begot ſuch Pity in the Inhabitants of the Iſland, that among them they raiſed 1500 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and lent it to <hi>Hanſon,</hi> the which he offered to pay down, and the other 500 <abbr>
+                     <hi>l.</hi>
+                  </abbr> ſo faſt as he ſhould grind out his Sugar Canes, or could raiſe Money by Sale of his Sugars made, or to give him Bills of Exchange to <hi>London</hi> for the ſame; which offer was alſo refuſed, and his Negroes and Sugars ſold, and he not ſuffer'd to ſell the ſame to the beſt Advantage, tho he offer'd that Mr. <hi>Steed</hi> ſhould receive the money himſelf, for which he ſhould ſell them: And ſuch was the Cruelty uſed to him, and real deſign totally to Ruin him, (rather than the Zeal they had of getting the 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for the King;) that tho his Son offer'd 5 <abbr>
+                     <hi>l.</hi>
+                  </abbr> more for ſome few of his Negroes, than any other would give, yet would they not let him have them (for fear be ſhould have lent or hired them to his Father) before he had given 14. <abbr>
+                     <hi>l.</hi>
+                  </abbr> Gratuity to Mr. Attorney General, and the <hi>Provoſt Marſhal:</hi> The <hi>Moloſſes</hi> being about 90 Terces, they ſold to a Gentleman, who tho he bought them cheap, let <hi>Hanſon</hi> have them at the ſame rate, whereby he got 30 <abbr>
+                     <hi>l.</hi>
+                  </abbr> But for the Sugars, of which they ſeized about 90 Hogſheads, the greater part (if not all of them) were ſold to Mr. <hi>Steeds</hi> Man, for 9 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 2 <hi>
+                     <abbr>d.</abbr> per Cent.</hi> when as <hi>Hanſon</hi> was offer'd for them 12 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 6 <hi>
+                     <abbr>d.</abbr> per Cent.</hi> ſo that they were ſold 3 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 2 <hi>
+                     <abbr>d.</abbr> per Cent</hi> leſs than the Market price: and the <hi>Hanſon</hi> and his Family wanted Food (and ſent his Son to the <hi>Provoſt Marſhal</hi>) he refuſed to ſend him the Keys of the Doors, wherein his Proviſions, which were extended, were lockt up, and ſome of the Marſhals men once drew upon him (and had wounded, if not kil'd him, had they not been prevented) only for ſpeaking againſt their rigorous uſages of his Father, which were ſo ſevere, that he was hindred from the working of his Crop, by which he might have made 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> a Week to<g ref="char:EOLhyphen"/>wards payment of the King, which Crop was thereby like to have been ſpoilt on the Ground, and loſt him 50 <abbr>
+                     <hi>l.</hi>
+                  </abbr> a Week, for ſome Weeks, for want of 3 or 4. Negroes to ſtill out the Liquors, which he had ready in his Still-houſe. And after all this, tho they had ſeized and ſold 108 Negroes, 46 Cattel, 90 Hogsheads of Sugar, and near as mamy Terces of Moloſſes, 3 Horſes, and other Goods which would have raiſed much more than the 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> penalty of <hi>Youngs</hi> Bond (which was all that can be pretended to be forfeited to the King) yet to keep him from coming over to complain of this manner of proceedings, (by which he hath been damnified above 2000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> more;) the Attorney General has underwrit him for 5250 <abbr>
+                     <hi>l.</hi>
+                  </abbr> upon the Bond of 5000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> penalty, given by him to <hi>Young,</hi> and for 200 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for a new fine ſet upon him as followeth, and for 5000 Weight of Sugar, that is recovering againſt him, upon pretence of a Negro being want only kill'd by one of his Blacks when he was in <hi>England,</hi> (for which he had before paid double the Value,) on purpoſe to keep him a Priſoner on the Iſland, and prevent his coming over to ſeek for Relief from this moſt Honourable Board.</p>
+               <p>NEITHER is this all the Hardſhip that hath been inflicted upon him, and pretended to be done by Order of His Majeſty in Council; which he is well aſſured was never by them deſigned or intended.</p>
+               <p>FOR the ſame Order that directed the ſuing <hi>Youngs</hi> Bond, is ſo drawn up,
+<pb n="19" facs="tcp:46416:10"/>as that that very Apeal which was heard in Council, and adjudged, for <hi>Hanſon,</hi> is ſent back to the ſame Court, for them to proceed to ſet a new Fine upon the Old Verdict, (from which he was diſcharged by Proclamation long before) by ſuch Method as was appointed by the new Regulation, juſt then made by His Majeſty in Council.</p>
+               <p>THE Original Indictment was only for entring upon a Wharf, and car<g ref="char:EOLhyphen"/>rying off 14 great Guns of the Kings, 14 of the Iſlands, and 14 of a per<g ref="char:EOLhyphen"/>ſons unknown, worth in the whole, about 150 <abbr>
+                     <hi>l.</hi>
+                  </abbr> which was but a Treſpaſs.</p>
+               <p>THE Court would not ſuffer <hi>Hanſons</hi> Witneſſes to be Examined, who could prove he bought the 12 Guns, in Queſtion; the Jury thereupon by Verdict, found him and <hi>Burſton</hi> only Guilty of a Fraudulent buying and ſelling 12 Guns belonging to one <hi>Rodrigus</hi> a <hi>Jew;</hi> a Verdict wholly differ<g ref="char:EOLhyphen"/>ent from the Indictment.</p>
+               <p>SIR <hi>Richard</hi> without the Courts Conſent and Concurrence, Fined him 150 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and <hi>Burſton</hi> 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr>
+               </p>
+               <p>THE Aſſembly Addreſt to Sir <hi>Richard</hi> for Relief.</p>
+               <p>NEVER THELESS <hi>Hanſons</hi> 150 <abbr>
+                     <hi>l.</hi>
+                  </abbr> was Levied (and 12 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 8 <abbr>
+                     <hi>s.</hi>
+                  </abbr> for Fee, (which was illegal) and <hi>Burſton</hi> Impriſoned till his 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> was pay'd.</p>
+               <p>THIS they would not Levy on <hi>Hanſons</hi> Goods, or Lands, but upon Ne<g ref="char:EOLhyphen"/>groes, whereby he was damnified 500 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Whereupon</p>
+               <p>
+                  <hi>HANSON</hi> appealed to this moſt Honourable Board, as aforeſaid, and was heard, the Fine adjudged to be erroneouſly ſet; but ſtill is kept; and altho <hi>Hanſon</hi> was diſcharg'd by Proclamation, as aforeſaid, from the former In<g ref="char:EOLhyphen"/>dictment,</p>
+               <p>YET have this new Court Erected, <hi>Ex poſt factum,</hi> without any new Information or Indictment prefer'd, or any Verdict, or ſummoning, or ſend<g ref="char:EOLhyphen"/>ing for <hi>Hanſon,</hi> or hearing him or his Council, or Witneſſes, fined him 200 <abbr>
+                     <hi>l.</hi>
+                  </abbr> which is 50 <abbr>
+                     <hi>l.</hi>
+                  </abbr> more than formerly, and 150 <abbr>
+                     <hi>l.</hi>
+                  </abbr> more than the whole value of the 42 Guns (mention'd in the Original Indictment) and this done by the Governor and Council, whom the Governours always ſo influence, that it's now in the power of any Governor to ruin whom he pleaſes, the which miſ<g ref="char:EOLhyphen"/>chief hath hitherto been prevented by the Court ſetting the Fines.</p>
+               <p>A <hi>Scire Facias</hi> is Iſſued to Levy this 200 <abbr>
+                     <hi>l.</hi>
+                  </abbr> tho 162 <abbr>
+                     <hi>l.</hi>
+                  </abbr> thereof was levied formerly, and is ſtill in the Governors poſſeſſion.</p>
+               <p>THIS being the ſaid <hi>Hanſon</hi>'s Caſe and a true State of his preſent Condition, he moſt Humbly lays himſelf and Cauſe, at your Maje<g ref="char:EOLhyphen"/>ſties Royal Feet, imploring Relief agreeable to Juſtice. And that the <hi>aforſaid</hi> ſeveral Sums of Money taken from him, may be reſtored; and that the like miſchief to other His Majeſties Subjects, <hi>may</hi> for the future be prevented; And the Iſland be thereby pre<g ref="char:EOLhyphen"/>ſerved from that Ruin, which inevitably will prove the Event of ſuch rigorous proceedings againſt; and the making penal Bonds, gi<g ref="char:EOLhyphen"/>ven to the Governour, forfeitable to the King upon every minute Breach of a Condition; for that no Perſons will then be bound with any Maſter of a Ship, when he arrives there; conſequently the Na<g ref="char:EOLhyphen"/>vigation of the Iſland muſt be loſt, and the Trade thereof deſtroyed, and His Majeſties Revenue loſt.</p>
+               <p>ALL which perticulars he ſhall be able to prove, if he may have a Commiſſion to examine Witneſſes, by indifferent Perſons.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
